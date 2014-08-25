@@ -1,6 +1,6 @@
  
 if(typeof(sasGlobalClickURL)=="undefined") { jQuery("head").append("<link href='vzo.css' rel='stylesheet' type='text/css'/>"); };
-
+heuheuheeehhueuhee
 function vzoHTMLAppend(){
 if (typeof(sasGlobalImgBaseURL)=="undefined") { sasGlobalImgBaseURL = ''; };
 	jQuery("#vz0-bar").html("\
