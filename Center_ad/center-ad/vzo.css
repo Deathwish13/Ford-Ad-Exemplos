@@ -1,0 +1,30 @@
+#vzo-group{position:fixed;left:0px;bottom:0px;z-index:1000000;width: 100%;text-align:left;cursor:pointer;}
+
+#bg-wup{position:absolute;left:50%;bottom:0px;z-index:99;opacity:0;margin-left:-324px;opacity:0;  max-width:666px;   box-shadow:0.2em 2.2em 5.2em 1.2em #000000;  }
+
+#img1-wup{position: absolute;left: 50%;bottom: 8px;z-index: 99;opacity: 0;margin-left: 113px;  }
+#img2-wup{position:absolute;left:50%;bottom:0px;z-index:99;opacity:0;margin-left:-3px;  }
+#img3-wup{position:absolute;left:50%;bottom:-100px;z-index:99;opacity:0;margin-left:5px;  }
+
+
+
+#wakeup{position:absolute;left:50%;bottom:0px;z-index:11;opacity:0;margin-left:307px;}
+
+
+
+
+#vzo-t{position:absolute;left:50%;bottom:-700px;z-index:10;opacity:0;margin-left:-220px; width: 426px;height: 418px;}
+
+#bgwakeup{position:absolute;left:0px;top:0;z-index:5;opacity:1;margin-left:-105px; box-shadow:0.2px 43.2px 43.2px -14.8px black; max-width:666px;  }
+
+
+
+
+#chamada0-wup{position:absolute;left:50%;top:200px;z-index:10;opacity:0;margin-left:-302px;  max-width:666px;   box-shadow:2.2em 6.2em -0.8em 3.2em #000000; border-radius: 20px; height: 0px; width: 600px; background-image:url("imgs/chamada0-wup.jpg");}
+#chamada1-wup{position: absolute;left: 50%;top: 42px;z-index: 10;opacity: 0;margin-left: -302px;height: 70px;background-image: url("imgs/chamada1-wup.png");z-index: 98;margin-top: 4px;}
+#chamada2-wup{position: absolute;left: 50%;top: 42px;z-index: 10;opacity: 0;margin-left: -302px;height: 31px;background-image: url("imgs/chamada2-wup.png");z-index: 98;margin-top: 81px;}
+#chamada3-wup{position:absolute;left:50%;top:200px;z-index:99;opacity:0;margin-left:-302px;  max-width:666px;   box-shadow:2.2em 6.2em -0.8em 3.2em #000000; border-radius: 20px; height: 0px; width: 600px; background-image:url("imgs/chamada3-wup.jpg");}
+
+
+
+#close-wup{position:absolute; bottom:411px;z-index:13;opacity:0;left: 50%;margin-left:266px; }
